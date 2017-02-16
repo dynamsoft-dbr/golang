@@ -1,4 +1,4 @@
-# HTTP Post Request in Golang
+# HTTP Post Request with Base64 Barcode Image in Golang
 Send base64 image data to Dynamsoft Barcode web service by using HTTP POST request in Go.
 
 ## How to Use
