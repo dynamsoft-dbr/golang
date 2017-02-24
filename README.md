@@ -57,3 +57,6 @@ Send base64 image data to Dynamsoft Barcode web service by using HTTP POST reque
 	go install
 	<GOPATH>/bin/main <barcode image file>
 	```
+
+## Blog
+[HTTP POST Request with Base64 Barcode Image in Golang](http://www.codepool.biz/http-post-request-base64-barcode-golang.html)
